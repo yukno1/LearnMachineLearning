@@ -1,0 +1,16 @@
+.venv/
+.idea/
+
+*.pth
+*.csv
+*.tsv
+LLM-from-scratch/Llama-3dot2 From Scratch/token.py
+LLM-from-scratch/Llama-3dot2 From Scratch/Llama-3.2-1B-Instruct/
+pyproject.toml
+uv.lock
+
+
+Kaggle/data/
+Deep Learning with Pytorch/data/
+D2L/data/
+LLM-from-scratch/GPT-2-from-scrach/sms_spam_collection/
